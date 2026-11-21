@@ -17,10 +17,10 @@ Data period used: 2026-07-01 to 2026-10-15 (UTC). Only data before the predictio
 ## How to run
 1. Setup
 ```
-git clone https://github.com/yourname/REPO.git && cd REPO
+git clone [https://github.com/yourname/REPO.git](https://github.com/MaxsushiLG/bigdata-asg2-315551802.git) && cd bigdata-asg2-315551802
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
-git clone https://github.com/<course-org>/BigData2026-Assignment2.git course   # course repo: preprocess.py, evaluate.py, submission/
+git clone [https://github.com/<course-org>/BigData2026-Assignment2.git](https://github.com/nycubigdata-2026fall/BigData2026-Assignment2.git) course   # course repo: preprocess.py, evaluate.py, submission/
 ```
 2. Download GH Archive hourly files (2026-07-01 to 2026-10-14)
 ```
